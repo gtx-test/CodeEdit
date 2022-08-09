@@ -4,6 +4,14 @@ This is my first change
 
 Unfortunately, I chose a swift repo.
 -----
+Here's a change from someone else
+
+that spans some lines
+
+some of them are really
+really
+
+annoying.
 
 
 Now I need to change it.
