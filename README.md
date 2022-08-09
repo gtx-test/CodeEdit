@@ -4,9 +4,25 @@ This is my first change
 
 Unfortunately, I chose a swift repo.
 -----
+Here's a change from someone else
 
-Fourth
+that spans some lines
 
+some of them are really
+really
+
+annoying.
+
+
+grr
+now
+for 
+sure
+I 
+change
+somethign
+that
+will create a conflic
 Now I need to change it.
 
 Now I make another change.
