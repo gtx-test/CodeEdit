@@ -8,6 +8,9 @@ Unfortunately, I chose a swift repo.
 
 Now I need to change it.
 
+Now I make another change.
+the UI should not let me merge it.
+
 
 
 <p align="center">
