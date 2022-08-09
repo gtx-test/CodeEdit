@@ -1,39 +1,3 @@
-Oh now!
-This is my first change
-
-
-Unfortunately, I chose a swift repo.
------
-Here's a change from someone else
-
-that spans some lines
-
-some of them are really
-really
-
-annoying.
-
-Fourth
-
-grr
-now
-for 
-sure
-I 
-change
-somethign
-that
-will create a conflic
-Now I need to change it.
-
-Now I make another change.
-the UI should not let me merge it.
-
-changed line 14.
-
-This is my third change
-check it out mother.
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/806104/163099605-4eaedd33-8441-4125-9ca1-a7ccb2f62a74.png" height="128">
