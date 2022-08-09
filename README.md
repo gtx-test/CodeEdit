@@ -1,3 +1,10 @@
+Oh now!
+This is my first change
+
+
+Unfortunately, I chose a swift repo.
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/806104/163099605-4eaedd33-8441-4125-9ca1-a7ccb2f62a74.png" height="128">
   <h1 align="center">CodeEdit for macOS</h1>
