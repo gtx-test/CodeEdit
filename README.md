@@ -1,3 +1,44 @@
+this is a change made after thee review was created
+
+yet another line
+
+and another
+
+Oh now!
+This is my first change
+
+
+Unfortunately, I chose a swift repo.
+Here's a change from someone else
+
+that spans some lines
+
+some of them are really
+really
+
+annoying.
+
+Fourth
+
+grr
+now
+for 
+sure
+I 
+change
+somethign
+that
+will create a conflic
+Now I need to change it.
+
+Now I make another change.
+the UI should not let me merge it.
+
+changed line 14.
+
+This is my third change
+check it out mother.
+
 just changed a line
 added a new line
 second line
