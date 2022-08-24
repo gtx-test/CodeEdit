@@ -1,9 +1,6 @@
-this is a change made after thee review was created
-
-yet another line
-
-and another
-
+just changed a line
+added a new line
+second line
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/806104/163099605-4eaedd33-8441-4125-9ca1-a7ccb2f62a74.png" height="128">
